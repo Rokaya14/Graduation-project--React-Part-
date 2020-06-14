@@ -7,9 +7,11 @@ class Home extends React.Component {
   render() {
     return (
       <div>
-        <div id="bg">
-        <Navbar />  
+        <div id="bg" className="image">
+          <Navbar />  
+          
           <img src={home} alt="" />
+          <h2>Welcome To Our Website</h2>
         </div>
       </div>
     );

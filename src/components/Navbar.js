@@ -1,7 +1,7 @@
 import React from 'react';
 import "bootstrap/dist/css/bootstrap.min.css"
 import '../Stylesheets/Dashboardstyle.css';
-import home from '../Stylesheets/home1.png';
+
 class Navbar extends React.Component {
     render(){ 
       return (
