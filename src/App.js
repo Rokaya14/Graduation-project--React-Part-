@@ -27,8 +27,6 @@ class App extends React.Component {
           <Route exact path='/Comments' component={Comments} />
           <Route exact path='/Aboutus' component={Aboutus} />
           <Route exact path='/Addpoints' component={Addpoints} />
-
-
         </Switch>
         
        
